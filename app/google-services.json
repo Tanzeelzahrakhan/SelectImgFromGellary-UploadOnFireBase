@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "909339894606",
+    "firebase_url": "https://fir-projects-fc98b-default-rtdb.firebaseio.com",
+    "project_id": "fir-projects-fc98b",
+    "storage_bucket": "fir-projects-fc98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909339894606:android:50117bb07338242f7f741f",
+        "android_client_info": {
+          "package_name": "com.example.firebasefirstlectureinsertfetchdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909339894606-cbu5rindddgirjm7h382f0ekrjt3k0r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqlj4Kq7FrAdfPhw1WZzD5csTfYWOfc-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909339894606-cbu5rindddgirjm7h382f0ekrjt3k0r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909339894606:android:759073463c4fecfd7f741f",
+        "android_client_info": {
+          "package_name": "com.example.upoadimageonfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909339894606-cbu5rindddgirjm7h382f0ekrjt3k0r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqlj4Kq7FrAdfPhw1WZzD5csTfYWOfc-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909339894606-cbu5rindddgirjm7h382f0ekrjt3k0r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
